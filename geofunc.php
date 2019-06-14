@@ -51,7 +51,7 @@ function geocode($address, $key){
 }
 
 
-$key = 'AIzaSyCJeMraPjmV_GQqd1czEssAYAmnBzZjxTc';
+$key = '';
 
 print_r(geocode($address, $key));
 
